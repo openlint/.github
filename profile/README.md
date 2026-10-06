@@ -19,11 +19,11 @@ Three things, deliberately decoupled so no one of them belongs to a single tool 
 | | |
 | -- | -- |
 | Website | [openlint.org](https://openlint.org) |
-| Working spec | [api-commons/spotlight-spec](https://github.com/api-commons/spotlight-spec) — migrating here |
+| Specification | [openlint/spec](https://github.com/openlint/spec) |
 | Community + support | [openlint/community](https://github.com/openlint/community) — [open an issue](https://github.com/openlint/community/issues) |
 | Email | [info@openlint.org](mailto:info@openlint.org) |
 | Roadmap | underway — first draft late September 2026 |
 
 ## Get involved
 
-Watch this org, [open an issue in the community repo](https://github.com/openlint/community/issues) and say hello, or join the discussion on the [working spec issues](https://github.com/api-commons/spotlight-spec/issues). Prefer email? [info@openlint.org](mailto:info@openlint.org). If you run Spectral rulesets today — in an enterprise, a government, a standards body — your requirements are exactly what the roadmap needs.
+Watch this org, [open an issue in the community repo](https://github.com/openlint/community/issues) and say hello, or join the [discussions](https://github.com/orgs/openlint/discussions). Prefer email? [info@openlint.org](mailto:info@openlint.org). If you run Spectral rulesets today — in an enterprise, a government, a standards body — your requirements are exactly what the roadmap needs.
