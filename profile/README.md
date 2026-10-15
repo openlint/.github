@@ -23,8 +23,8 @@ Three things, deliberately decoupled so no one of them belongs to a single tool 
 | Community + support | [openlint/community](https://github.com/openlint/community), with [discussions](https://github.com/orgs/openlint/discussions) and [issues](https://github.com/openlint/community/issues) |
 | Website | [openlint.org](https://openlint.org): [roadmap](https://openlint.org/roadmap/), [changelog](https://openlint.org/changelog/), [learn](https://openlint.org/learn/), [blog](https://openlint.org/blog/) |
 | Office hours | Weekly on Thursdays, 10:00 ET. [Agendas](https://github.com/openlint/community/issues?q=label%3Ameetings), [recordings and transcripts](https://openlint.org/meetings/) |
-| Governance | [Governance](https://github.com/orgs/openlint/discussions/16) · [Maintainers](https://github.com/orgs/openlint/discussions/19) · [Code of Conduct](https://github.com/openlint/.github/blob/main/CODE_OF_CONDUCT.md) |
-| Funding | [opencollective.com/openlint](https://opencollective.com/openlint) |
+| Governance | [Governance](https://github.com/openlint/community/blob/main/GOVERNANCE.md) · [Maintainers](https://github.com/openlint/community/blob/main/MAINTAINERS.md) · [Code of Conduct](https://github.com/openlint/.github/blob/main/CODE_OF_CONDUCT.md) |
+| Funding | [opencollective.com/openlint](https://opencollective.com/openlint), with Open Source Europe as fiscal host |
 | Email | [info@openlint.org](mailto:info@openlint.org) |
 
 ## Get involved
