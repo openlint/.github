@@ -19,6 +19,7 @@ Three things, deliberately decoupled so no one of them belongs to a single tool 
 | | |
 | -- | -- |
 | Specification | [spec.openlint.org](https://spec.openlint.org/v1/draft/), the working draft, [ready for feedback](https://openlint.org/blog/2026/10/22/draft-specification-ready-for-feedback/); source in [openlint/spec](https://github.com/openlint/spec) |
+| Getting started | [docs.openlint.org/getting-started](https://docs.openlint.org/getting-started/): install the CLI and lint your first document; source in [openlint/docs](https://github.com/openlint/docs) |
 | Code | [openlint/openlint](https://github.com/openlint/openlint), the reference implementation |
 | Community + discussions | [GitHub Discussions](https://github.com/orgs/openlint/discussions); project files in [openlint/community](https://github.com/openlint/community) |
 | Website | [openlint.org](https://openlint.org): [roadmap](https://openlint.org/roadmap/), [changelog](https://openlint.org/changelog/), [learn](https://openlint.org/learn/), [blog](https://openlint.org/blog/) |
