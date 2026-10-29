@@ -21,6 +21,7 @@ Three things, deliberately decoupled so no one of them belongs to a single tool 
 | Specification | [spec.openlint.org](https://spec.openlint.org/v1/draft/), the working draft, [ready for feedback](https://openlint.org/blog/2026/10/22/draft-specification-ready-for-feedback/); source in [openlint/spec](https://github.com/openlint/spec) |
 | Getting started | [docs.openlint.org/getting-started](https://docs.openlint.org/getting-started/): install the CLI and lint your first document; source in [openlint/docs](https://github.com/openlint/docs) |
 | Learn | [learn.openlint.org](https://learn.openlint.org): OpenLint 101, aliases, snippets and the built-in rules; source in [openlint/learn](https://github.com/openlint/learn) |
+| Rules | [rules.openlint.org](https://rules.openlint.org): every rule in the built-in rulesets, the specification and learn, one page per rule, searchable by property; source in [openlint/rules](https://github.com/openlint/rules) |
 | Code | [openlint/openlint](https://github.com/openlint/openlint), the reference implementation |
 | Community + discussions | [GitHub Discussions](https://github.com/orgs/openlint/discussions); project files in [openlint/community](https://github.com/openlint/community) |
 | Website | [openlint.org](https://openlint.org): [roadmap](https://openlint.org/roadmap/), [changelog](https://openlint.org/changelog/), [blog](https://openlint.org/blog/) |
