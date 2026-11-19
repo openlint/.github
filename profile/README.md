@@ -29,6 +29,7 @@ Three things, deliberately decoupled so no one of them belongs to a single tool 
 | Language server | [openlint/language-server](https://github.com/openlint/language-server): editor diagnostics from the real engine, an early prototype |
 | Community + discussions | [GitHub Discussions](https://github.com/orgs/openlint/discussions); chat on [Slack](https://join.slack.com/t/openlintworkspace/shared_invite/zt-4hgoweggz-~h3UNfIyoy~pYUgQ_ivwow); chat on [Slack](https://join.slack.com/t/openlintworkspace/shared_invite/zt-4hgoweggz-~h3UNfIyoy~pYUgQ_ivwow); project files in [openlint/community](https://github.com/openlint/community) |
 | Website | [openlint.org](https://openlint.org): [roadmap](https://openlint.org/roadmap/), [changelog](https://openlint.org/changelog/), [blog](https://openlint.org/blog/) |
+| Newsletter | [Subscribe](https://usecommune.com/n/openlint) for OpenLint news by email |
 | Office hours | Weekly on Thursdays, 9:00 ET. [Agendas](https://github.com/openlint/community/issues?q=label%3Ameetings), [recordings and transcripts](https://openlint.org/meetings/) |
 | Governance | [Governance](https://github.com/openlint/community/blob/main/GOVERNANCE.md) · [Maintainers](https://github.com/openlint/community/blob/main/MAINTAINERS.md) · [Code of Conduct](https://github.com/openlint/.github/blob/main/CODE_OF_CONDUCT.md) |
 | Funding | [opencollective.com/openlint](https://opencollective.com/openlint), with Open Source Europe as fiscal host |
