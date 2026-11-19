@@ -18,12 +18,15 @@ Three things, deliberately decoupled so no one of them belongs to a single tool 
 
 | | |
 | -- | -- |
-| Specification | [spec.openlint.org](https://spec.openlint.org/v1/draft/), the working draft, [ready for feedback](https://openlint.org/blog/2026/10/22/draft-specification-ready-for-feedback/); source in [openlint/spec](https://github.com/openlint/spec) |
+| Specification | [spec.openlint.org](https://spec.openlint.org), version 1.0; source in [openlint/spec](https://github.com/openlint/spec) |
 | Getting started | [docs.openlint.org/getting-started](https://docs.openlint.org/getting-started/): install the CLI and lint your first document; source in [openlint/docs](https://github.com/openlint/docs) |
 | Learn | [learn.openlint.org](https://learn.openlint.org): OpenLint 101, aliases, snippets and the built-in rules; source in [openlint/learn](https://github.com/openlint/learn) |
 | Rules | [rules.openlint.org](https://rules.openlint.org): every rule in the built-in rulesets, the specification and learn, one page per rule, searchable by property; source in [openlint/rules](https://github.com/openlint/rules) |
 | Conformance | [conformance.openlint.org](https://conformance.openlint.org): the same rulesets run daily through OpenLint, Spectral, vacuum, the IBM OpenAPI Validator, Insomnia and Redocly, side by side; source in [openlint/conformance](https://github.com/openlint/conformance) |
-| Code | [openlint/openlint](https://github.com/openlint/openlint), the reference implementation |
+| Toolbox | [openlint/openlint](https://github.com/openlint/openlint), the reference implementation: the [`openlint`](https://www.npmjs.com/package/openlint) CLI and `@openlint/*` packages. [Releases](https://github.com/openlint/openlint/releases) and [changelog](https://openlint.org/changelog/) |
+| Rulesets | One repo and npm package each: [ruleset-openapi](https://github.com/openlint/ruleset-openapi), [ruleset-asyncapi](https://github.com/openlint/ruleset-asyncapi), [ruleset-arazzo](https://github.com/openlint/ruleset-arazzo), the opt-in [ruleset-documentation](https://github.com/openlint/ruleset-documentation), and the frozen `spectral:*` compatibility rulesets ([oas](https://github.com/openlint/ruleset-spectral-oas), [asyncapi](https://github.com/openlint/ruleset-spectral-asyncapi), [arazzo](https://github.com/openlint/ruleset-spectral-arazzo)) |
+| MCP server | [openlint/mcp](https://github.com/openlint/mcp): lint, look up rules and check rulesets from AI tools; [`@openlint/openlint-mcp`](https://www.npmjs.com/package/@openlint/openlint-mcp) on npm |
+| Language server | [openlint/language-server](https://github.com/openlint/language-server): editor diagnostics from the real engine, an early prototype |
 | Community + discussions | [GitHub Discussions](https://github.com/orgs/openlint/discussions); project files in [openlint/community](https://github.com/openlint/community) |
 | Website | [openlint.org](https://openlint.org): [roadmap](https://openlint.org/roadmap/), [changelog](https://openlint.org/changelog/), [blog](https://openlint.org/blog/) |
 | Office hours | Weekly on Thursdays, 9:00 ET. [Agendas](https://github.com/openlint/community/issues?q=label%3Ameetings), [recordings and transcripts](https://openlint.org/meetings/) |
