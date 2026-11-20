@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/openlint/.github/main/assets/openlint-icon.svg" width="96" align="right" alt="OpenLint icon">
-
 # OpenLint
 
 **An open specification and toolbox for linting API artifacts**: rulesets, conformance, and governance for OpenAPI and the formats around it. A community fork of Spectral, developed and stewarded in the open as an [API Commons](https://apicommons.org) effort.
